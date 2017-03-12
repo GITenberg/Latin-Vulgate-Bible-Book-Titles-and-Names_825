@@ -1,5 +1,8 @@
 _repo: Latin-Vulgate-Bible-Book-Titles-and-Names_825
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/825#Latin-Vulgate-Bible-Book-Titles-and-Names
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '1997-02-01'
 gutenberg_type: Text
