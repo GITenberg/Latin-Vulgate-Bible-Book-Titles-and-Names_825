@@ -1,5 +1,5 @@
 _repo: Latin-Vulgate-Bible-Book-Titles-and-Names_825
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
